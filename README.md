@@ -4,15 +4,15 @@ Fetch - Data Analyst Take Home
 In this exercise you will:  
 
 Demonstrate how you reason about data and how you communicate your understanding of a specific data set to others.
+
 Requirements:  
-
 The exercise must be committed to a git repository and the link must be provided to the recruiter. Emailed files will not be reviewed.
-Tips:  
 
+Tips:  
 Communicate your thoughts in each section. Code should be commented. Findings and conclusions should be written down and shared.
 Share assumptions you are making.
-Exercise:  
 
+Exercise:  
 First: explore the data  
 
 Review the unstructured csv files and answer the following questions with code that supports your conclusions:  
